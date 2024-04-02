@@ -12,5 +12,5 @@ Let's integrate with 3rd party systems to show our value add.
 
 ## Resources
 
-- Spaceley's Sprockets' [API Docs](https://spaceleys-sprocket.up.railway.app)
-- Cogswell's Cogs' [API Docs](https://cogswells-cogs.up.railway.app)
+- Spaceley's Sprockets' [API Docs](https://spaceleys-sprocket.advisr.net)
+- Cogswell's Cogs' [API Docs](https://cogswells-cogs.advisr.net)
